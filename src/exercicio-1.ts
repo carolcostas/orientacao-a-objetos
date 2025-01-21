@@ -21,7 +21,3 @@ class Calculadora {
 }
 
 const calculadora = new Calculadora(3, 6);
-console.log(calculadora.soma());
-console.log(calculadora.subtracao());
-console.log(calculadora.divisao());
-console.log(calculadora.multiplicacao());
